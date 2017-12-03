@@ -1,5 +1,5 @@
 # Automatic Transcription of Piano Music
-The goal of this project is to automate the music transcription process from a musical recording. In this project, we will consider piano recordings consisting of only monophonic notes i.e. only a single note will be played at a time. There are many algorithms to generate musical sheets from an audio such as autocorrelation, CQT transform and cepstral based. This project will focus on YIN, which is a modified autocorrelation algorithm, and cepstral algorithm.
+The goal of this project is to automate the music transcription process from a musical recording. In this project, we will consider piano recordings consisting of only monophonic notes i.e. only a single note will be played at a time. There are many algorithms to generate musical sheets from an audio such as autocorrelation, CQT transform and cepstral based. This project will focus on YIN, which is a modified autocorrelation algorithm, and cepstral algorithm. [Read More](https://github.com/rachhshruti/automatic-music-transcription/blob/master/AutomaticTranscriptionOfPianoMusic.pdf)
 
 # Running the Code
 	Rscript pitch-detection.R sound-file-path
